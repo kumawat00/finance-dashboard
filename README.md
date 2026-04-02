@@ -15,11 +15,11 @@ Viewer: Can only view data
 Admin: Can see "Add Transaction" button
 
 
-Insights
+Insights :
 Highest spending category
 Total transactions
 
-Tech Stack
+Tech Stack: 
 React (Vite)
 Tailwind CSS
 Recharts
